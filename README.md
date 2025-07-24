@@ -27,14 +27,14 @@ This project was developed as part of a supervised internship at **IFCE - Federa
 - **Language**: Swift  
 - **Platform**: iOS (iPhone)  
 - **Frameworks**: SwiftUI   
-- **Storage**: SwiftData / UserDefaults  
+- **Storage**: SwiftData / UserDefaults
+- ⚠ It was not possible to host the app because there are no tools available other than Xcode.
 
 ---
 
 ## 👨‍💻 Development
 
 This project was created during a technical internship program at **IFCE**, under the guidance of instructors and with the support of **Irede**.
-⚠ It was not possible to host the app because there are no tools available other than Xcode.
 ---
 
 ## 🚀 Installation & Running
