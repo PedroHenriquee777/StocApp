@@ -43,6 +43,9 @@ This project was created during a technical internship program at **IFCE**, unde
    ```bash
    git clone https://github.com/your-username/stocapp.git
 
+2. Open in your Xcode:
+
+3. Run the application. 
 ---
 
 ## 👨‍💻 Programmers
