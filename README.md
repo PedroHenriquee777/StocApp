@@ -35,6 +35,7 @@ This project was developed as part of a supervised internship at **IFCE - Federa
 ## 👨‍💻 Development
 
 This project was created during a technical internship program at **IFCE**, under the guidance of instructors and with the support of **Irede**.
+
 ---
 
 ## 🚀 Installation & Running
@@ -47,6 +48,10 @@ This project was created during a technical internship program at **IFCE**, unde
 
 3. Run the application. 
 ---
+
+
+## 📄 License
+This project was developed solely for educational, academic, and technical purposes, with no intention of commercial use or sale
 
 ## 👨‍💻 Programmers
 
